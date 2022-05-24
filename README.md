@@ -24,7 +24,7 @@
    
    <h2>
       <ul>
-         <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
+         CyberSecutity Master | Full stack Developer | Sysadmin
       </ul>   
    </h2>
    
