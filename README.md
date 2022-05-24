@@ -35,7 +35,7 @@
          <a href="[SpigotMc Page](https://www.spigotmc.org/resources/authors/fakeswape.1567701/)" target="_blank">My Developer Spigot Portal</a> New plugins are coming
       </li>
       <li>
-         Developer and Manager at <a href="[https://hiri.dev](https://discord.gg/HY2n3qj52Z)" target="_blank">Pixel Unity</a>
+         Developer and Manager at <a href="https://discord.gg/HY2n3qj52Z" target="_blank">Pixel Unity</a>
       </li>
       <li>
          Developer and Server Engineer at <a href="https://discord.hymoon.net" target="_blank">Hymoon</a>
