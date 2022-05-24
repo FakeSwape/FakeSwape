@@ -1,16 +1,59 @@
-### Hi there 👋
+   
+   <h2>⚙️ Contributions</h2>
+   <ul>
+      <li>
+         <a href="https://github.com/Polliog/NISD-Langs" target="_blank">NISD-Langs</a> Translated the bot to Japanese (日本語) and French (Français)
+      </li>
+      <li>
+         Developer at <a href="https://hiri.dev" target="_blank">Hiri Devs</a>
+      </li>
+      <li>
+         Developer at <a href="https://techhost.live" target="_blank">TechHost</a>
+      </li>
+   </ul>
+   <h6>Working on other projects too...</h6>
 
-<!--
-**FakeSwape/FakeSwape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <h2>🌐 Languages I can speak</h2>
+   <p>
+      I can speak 4 languages, which are:
+   <ul>
+      <li>
+         Italian (Native)
+      </li>
+      <li>
+         Japanese (JLPT-N4), Decent
+      </li>
+      <li>
+         British English (European B1 Certification, lots of speaking experience with natives), Mastered
+      </li>
+      <li>
+         French (European A2 Certification, some speaking experience with natives), Decent
+      </li>
+   </ul>
+   </p>
+   <h2>📱 Socials and Contacts</h2>
+   <p>
+   <ul>
+      <li>
+         <a href="https://instagram.com/teknosenpai" target="_blank">Instagram</a>
+      </li>
+      <li>
+         <a href="https://discord.teknocraft.it" target="_blank">Discord Server</a>
+      </li>
+      <li>
+         <a href="mailto:tekno@hiri.dev" target="_blank">tekno@hiri.dev</a>
+      </li>
+   </ul>
+   <br>
+   <img src="https://lanyard.cnrad.dev/api/836663939609657385">
+   </p>
+</ul>
+<br>
+<h1>ℹ️ Stats</h1>
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" />
+   </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
