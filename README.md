@@ -15,13 +15,13 @@
    | Language                            | Level of knowledge |
    |-------------------------------------|--------------------|
    | Java                                | Good (60%)         |
-   | Python                              | Expert             |
+   | Python                              | Extreme Good (80%) |
    | JavaScript (NODEjs and plain old js)| Decent (40%)       |
    | HTML                                | Decent (95%)       |
    | CSS                                 | Decent (85%)       |
       
    
-   <h2>Types of IT industries that I specialize in or am still learning</h2>
+   <h2>📲 Types of IT industries that I specialize in or am still learning</h2>
    
    <ul>
        <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
