@@ -1,14 +1,4 @@
-   
-   <h2>⚙️ Contributions</h2>
-   <ul>
-      <li>
-         <a href="https://github.com/Polliog/NISD-Langs" target="_blank">NISD-Langs</a> Translated the bot to Japanese (日本語) and French (Français)
-      </li>
-      <li>
-         Developer at <a href="https://hiri.dev" target="_blank">Hiri Devs</a>
-      </li>
-      <li>
-         Developer at <a href="https://techhost.live" target="_blank">TechHost</a>
+          Developer at <a href="https://techhost.live" target="_blank">TechHost</a>
       </li>
    </ul>
    <h6>Working on other projects too...</h6>
@@ -55,5 +45,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=teknosenpai&show_icons=true&theme=tokyonight&count_private=true" />
    </a>
 </div>
-
-***
