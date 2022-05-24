@@ -24,7 +24,9 @@
    <h2>📲 Types of IT industries that I specialize in or am still learning</h2>
    
    <ul>
-       <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
+      <li>
+         <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
+      </li>   
    </ul>   
    
    <h2>⚙️ My projects</h2>
