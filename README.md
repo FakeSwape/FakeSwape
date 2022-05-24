@@ -19,13 +19,13 @@
    | JavaScript (NODEjs and plain old js)| Decent (40%)       |
    | HTML                                | Decent (95%)       |
    | CSS                                 | Decent (85%)       |
-      Types of IT industries that I specialize in or am still learning
+      
    
-   <h2>
-      <ul>
-         <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
-      </ul>   
-   </h2>
+   <h2>Types of IT industries that I specialize in or am still learning</h2>
+   
+   <ul>
+       <p>CyberSecutity Master | Full stack Developer | Sysadmin</p>
+   </ul>   
    
    <h2>⚙️ My projects</h2>
    <ul>
