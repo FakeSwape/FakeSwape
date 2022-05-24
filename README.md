@@ -19,8 +19,7 @@
    | JavaScript (NODEjs and plain old js)| Decent (40%)       |
    | HTML                                | Decent (95%)       |
    | CSS                                 | Decent (85%)       |
-   
-   <p>Types of IT industries that I specialize in or am still learning</p>
+      Types of IT industries that I specialize in or am still learning
    
    <h2>
       <ul>
