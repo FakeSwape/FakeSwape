@@ -20,7 +20,7 @@
    | HTML                                | Decent (95%)       |
    | CSS                                 | Decent (85%)       |
    
-      <p>Types of IT industries that I specialize in or am still learning</p>
+   <p>Types of IT industries that I specialize in or am still learning</p>
    
    <h2>
       <ul>
