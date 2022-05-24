@@ -5,7 +5,7 @@
    <br>
    I'm FakeSwape, my real name is Giuseppe, I am a lover of IT
    <br>
-   **I would like to become a full stack developer**
+   I would like to become a full stack developer
 </p>
 <br>
 <h1>ℹ️ About Me</h1>
