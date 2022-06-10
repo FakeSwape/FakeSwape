@@ -1,5 +1,5 @@
 ***
-<h1>FakeSwape BIO</h1>
+<h1>TechnoAde BIO</h1>
 <p>
    Hello guys!
    <br>
@@ -32,7 +32,7 @@
    <h2>⚙️ My projects</h2>
    <ul>
       <li>
-         <a href="(https://www.spigotmc.org/resources/authors/fakeswape.1567701/)" target="_blank">My Developer Spigot Portal</a> New plugins are coming
+         <a href="(https://www.spigotmc.org/resources/authors/technoade/)" target="_blank">My Developer Spigot Portal</a> New plugins are coming
       </li>
       </li>
    </ul>
