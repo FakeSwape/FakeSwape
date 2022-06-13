@@ -3,7 +3,7 @@
 <p>
    Hello guys!
    <br>
-   I'm TechnoAde, my real name is Giuseppe, I am a lover of IT
+   I'm TechnoAde, I am a lover of IT
    <br>
    I would like to become a full stack developer
 </p>
