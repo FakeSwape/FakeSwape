@@ -15,10 +15,8 @@
    | Language                            | Level of knowledge |
    |-------------------------------------|--------------------|
    | Java                                | Good (60%)         |
-   | Python                              | Extreme Good (80%) |
    | JavaScript (NODEjs and plain old js)| Decent (40%)       |
-   | HTML                                | Decent (95%)       |
-   | CSS                                 | Decent (85%)       |
+   | React                               | Decent (40%)       |  
       
    
    <h2>📲 Types of IT industries that I specialize in or am still learning</h2>
@@ -49,7 +47,7 @@
          French (Low Level)
       </li>
       <li>
-         British English (Medium-High level | I haven't been doing much practice lately)
+         British English (Medium-High level)
       </li>
    </ul>
    </p>
