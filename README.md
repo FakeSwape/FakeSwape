@@ -12,11 +12,12 @@
 <ul>
    <h2>🔧 languages I know and use</h2>
 
-   | Language                            | Level of knowledge |
-   |-------------------------------------|--------------------|
-   | Java                                | Good (60%)         |
-   | JavaScript (NODEjs and plain old js)| Decent (40%)       |
-   | React                               | Decent (40%)       |  
+   | Language                            |  Level of knowledge  |
+   |-------------------------------------|----------------------|
+   | Java                                | Good (80%)           |
+   | JavaScript (NODEjs and plain old js)| Decent (40%)         |
+   | React                               | Under Learning (40%) | 
+   | Rust                                | Good (50%)           | 
       
    
    <h2>📲 Types of IT industries that I specialize in or am still learning</h2>
