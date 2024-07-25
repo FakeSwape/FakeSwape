@@ -1,9 +1,9 @@
 ***
-<h1>TechnoAde BIO</h1>
+<h1>ThatsAde BIO</h1>
 <p>
    Hello guys!
    <br>
-   I'm TechnoAde, I am a lover of IT
+   I'm Giuseppe, I am a lover of IT
    <br>
    I would like to become a full stack developer
 </p>
